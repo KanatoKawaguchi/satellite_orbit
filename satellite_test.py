@@ -1,4 +1,4 @@
-import satellite_orbit.satellite_orbit.satellite as satellite
+import satellite 
 import numpy as np
 import matplotlib.pyplot as plt
 from matplotlib import patches
